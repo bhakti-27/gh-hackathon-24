@@ -11,6 +11,7 @@ Finally, we visualized our model output, error and ground truth using matplotlib
 <img src = forest_pick.png width="750" height="320"/>
 
 <br>
+
 # Model Pipeline
 <img src = transfer_learning.PNG width="750" height="300"/>
 <br> 
