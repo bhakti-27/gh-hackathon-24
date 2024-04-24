@@ -8,7 +8,7 @@ Audience: Federal, state, and local land managers, utility foresters, asset mana
 The ImageNet feature representation was established using images of bands and time for classification. Logistic basic regression was used to classify pixels with partial fit. Model performance was evaluated by randomizing pixel representations and retraining the model. RSME increased as expected when data was randomized at the pixel/time series stage
 
 Finally, we visualized our model output, error and ground truth using matplotlib and wrote the asset as a geotiff.
-<img src = forest_pick.png width="750" height="380"/>
+<img src = forest_pick.png width="750" height="420"/>
 
 <br>
 
