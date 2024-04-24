@@ -13,7 +13,7 @@ Finally, we visualized our model output, error and ground truth using matplotlib
 <br>
 
 # Model Pipeline
-<img src = transfer_learning.PNG width="850" height="300"/>
+<img src = transfer_learning.PNG width="650" height="450"/>
 <br> 
 
 # Set Up
